@@ -1,2 +1,2 @@
-# coursera-test
+# GabyRuth
 Coursera test repository
